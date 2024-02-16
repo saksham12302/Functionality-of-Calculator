@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+}
+
+ .mx-auto{
+     margin: auto;
+ }
+
+ 
+ .button{
+     padding: 20px;
+     margin: 0 3px;
+     border: 2px solid black;
+     border-radius: 9px;
+     cursor: pointer;
+ }
+
+ .flex{
+display: flex;
+ } 
+
+ .flex-col{
+     flex-direction: column;
+ }
+
+ .item-center{
+     align-items: center;
+
+ }
+ .row{
+     margin: 12px ;
+ }
